@@ -1,0 +1,62 @@
+```
+# Dependencies
+.dart_tool/
+.build/
+functions/node_modules/
+
+# Build outputs
+build/
+**/build/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+*.coverage
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Metadata
+.metadata
+
+# Android
+android/**/build/
+android/gradle.properties
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/build/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+
+# Web
+web/build/
+
+# Linux
+linux/build/
+
+# macOS
+macos/Pods/
+macos/build/
+
+# Windows
+windows/Build/
+windows/Runner.build/
+```
